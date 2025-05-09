@@ -1,0 +1,40 @@
+{
+  "audiovisual_files": {
+    "c0ebf637-ed0a-4f44-972f-b897c1ff3768": {
+      "label": "",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "duration_overridden": false,
+      "caption_set": []
+    },
+    "ddb9df7d-9e97-46bc-b565-af5d233622ba": {
+      "label": "Gordon Ramsay's Stir Fry Guide",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=s8f752SdeAI",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "asdf"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Gordon Ramsay's Stir Fry Guide",
+  "created_at": "2025-05-09T19:54:18.269Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-05-09T19:54:18.269Z",
+  "updated_by": "SteveMarvin"
+}
